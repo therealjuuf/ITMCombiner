@@ -1,5 +1,5 @@
 # ITMCombiner
-Allows you to merge two .itm files into one.
+Allows you to merge two .itm files into one. You can combine all .itm files at once.
 
 # How to Use?
 1)Place empty/target .itm files under dest folder.  
